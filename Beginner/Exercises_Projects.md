@@ -37,3 +37,5 @@
 * [day-4-2-exercise](https://repl.it/@pathilink/day-4-2-exercise#README.md)
 
 * [day-4-3-exercise](https://repl.it/@pathilink/day-4-3-exercise#README.md)
+
+* [rock-paper-scissors-start](https://repl.it/@pathilink/rock-paper-scissors-start#main.py)
