@@ -39,3 +39,13 @@
 * [day-4-3-exercise](https://repl.it/@pathilink/day-4-3-exercise#README.md)
 
 * [rock-paper-scissors-start](https://repl.it/@pathilink/rock-paper-scissors-start#main.py)
+
+* [day-5-1-exercise](https://repl.it/@pathilink/day-5-1-exercise#README.md)
+
+* [day-5-2-exercise](https://repl.it/@pathilink/day-5-2-exercise#README.md)
+
+* [day-5-3-exercise](https://repl.it/@pathilink/day-5-3-exercise#README.md)
+
+* [day-5-4-exercise](https://repl.it/@pathilink/day-5-4-exercise#README.md)
+
+* [password-generator-start](https://repl.it/@pathilink/password-generator-start#main.py)
