@@ -17,45 +17,36 @@ nr_numbers = int(input(f"How many numbers would you like?\n"))
 #Eazy Level - Order not randomised:
 #e.g. 4 letter, 2 symbol, 2 number = JduE&!91
 
-l = random.sample(letters, nr_letters)
-s = random.sample(symbols, nr_symbols)
-n = random.sample(numbers, nr_numbers)
+password = ''
 
-# print(l)
-# print(s)
-# print(n)
+for char in range(1, nr_letters + 1):
+    password += random.choice(letters)
+for char in range(1, nr_symbols + 1):
+    password += random.choice(symbols)
+for char in range(1, nr_numbers + 1):
+    password += random.choice(numbers)
 
-pass_list = []
-for p in l:
-    pass_list.append(p)
-for p in s:
-    pass_list.append(p)
-for p in n:
-    pass_list.append(p)
+print(f"Your password is: {password}")
 
-print(pass_list)
-
-easy_password = ''
-for p in pass_list:
-    easy_password += p
-
-print(f"Your password is: {easy_password}")
 
 #Hard Level - Order of characters randomised:
 #e.g. 4 letter, 2 symbol, 2 number = g^2jk8&P
 
-'''NOT TOTALLY WRONG
-hard_password = ''
-for i in range(len(pass_list)):
-    hard_password += random.choice(pass_list)
-print(f"Your password is: {hard_password}")
-'''
+password_list = []
 
-pass_list_random = random.sample(pass_list, len(pass_list))
+for char in range(1, nr_letters + 1):
+    password_list.append(random.choice(letters))
+for char in range(1, nr_symbols + 1):
+    password_list.append(random.choice(symbols))
+for char in range(1, nr_numbers + 1):
+    password_list.append(random.choice(numbers))
 
-hard_password = ''
-for p in pass_list_random:
-    hard_password += p
+# print(password_list)
+random.shuffle(password_list)
+# print(password_list)
 
-print(f"Your password randomized is: {hard_password}")
+password_randomized = ''
+for char in password_list:
+    password_randomized += char
 
+print(f"Your password randomized is: {password_randomized}")
