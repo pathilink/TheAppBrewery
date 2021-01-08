@@ -49,3 +49,13 @@
 * [day-5-4-exercise](https://repl.it/@pathilink/day-5-4-exercise#README.md)
 
 * [password-generator-start](https://repl.it/@pathilink/password-generator-start#main.py)
+
+* [day-7-Hangman-1-Start](https://repl.it/@pathilink/Day-7-Hangman-1-Start#main.py)
+
+* [day-7-Hangman-2-Start](https://repl.it/@pathilink/Day-7-Hangman-2-Start#main.py)
+
+* [day-7-Hangman-3-Start](https://repl.it/@pathilink/Day-7-Hangman-3-Start#main.py)
+
+* [day-7-Hangman-4-Start](https://repl.it/@pathilink/Day-7-Hangman-4-Start#main.py)
+
+* [day-7-Hangman-5-Start](https://repl.it/@pathilink/Day-7-Hangman-5-Start#main.py)
