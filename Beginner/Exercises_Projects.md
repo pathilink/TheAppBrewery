@@ -59,3 +59,11 @@
 * [day-7-Hangman-4-Start](https://repl.it/@pathilink/Day-7-Hangman-4-Start#main.py)
 
 * [day-7-Hangman-5-Start](https://repl.it/@pathilink/Day-7-Hangman-5-Start#main.py)
+
+* [day-8-start](https://repl.it/@pathilink/day-8-start#main.py)
+
+* [day-8-1-exercise](https://repl.it/@pathilink/day-8-1-exercise#README.md)
+
+* [day-8-2-exercise](https://repl.it/@pathilink/day-8-2-exercise#README.md)
+
+* [caesar-cipher-1-start](https://repl.it/@pathilink/caesar-cipher-1-start#main.py)
