@@ -67,3 +67,9 @@
 * [day-8-2-exercise](https://repl.it/@pathilink/day-8-2-exercise#README.md)
 
 * [caesar-cipher-1-start](https://repl.it/@pathilink/caesar-cipher-1-start#main.py)
+
+* [caesar-cipher-2-start](https://repl.it/@pathilink/caesar-cipher-2-start#main.py)
+
+* [caesar-cipher-3-start](https://repl.it/@pathilink/caesar-cipher-3-start#main.py)
+
+* [caesar-cipher-4-start](https://repl.it/@pathilink/caesar-cipher-4-start#main.py)
