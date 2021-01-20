@@ -73,3 +73,9 @@
 * [caesar-cipher-3-start](https://repl.it/@pathilink/caesar-cipher-3-start#main.py)
 
 * [caesar-cipher-4-start](https://repl.it/@pathilink/caesar-cipher-4-start#main.py)
+
+* [day-9-1-exercise](https://repl.it/@pathilink/day-9-1-exercise#README.md)
+
+* [day-9-2-exercise](https://repl.it/@pathilink/day-9-2-exercise#README.md)
+
+* [blind-auction-start](https://repl.it/@pathilink/blind-auction-start#main.py)
